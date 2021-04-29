@@ -1,0 +1,17 @@
+Hyperspectral Remote Sensing Scenes
+
+数据地址：http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes
+
+相关数据介绍：自行查阅相关数据
+
+实验要求：
+
+利用给定的数据集，进行数据特征（波段）选择。
+
+具体选择方法和策略不限制。
+
+实验结果度量标准不少于4种，结合课程学习中的指标。
+
+建议对比不同类型的选择方法，给出各种方法的优缺点。
+
+【!】实验过程中要对方法有简要的描述。
